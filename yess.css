@@ -6,7 +6,8 @@
     align-items: center;
     /* justify-content:end; */
     /* align-items: end; */
-    border: 1px solid brown;
+    border: 5px solid brown;
+    border-radius: 25px;
     height: 500px;
 }
 
@@ -31,16 +32,6 @@
     background-color: yellow;
     grid-column-gap: 50px;
 }
-
-.sub-main2 {
-    background-color: aqua;
-    border: 5px solid black;
-    padding: 20px;
-    text-align: center;
-    margin-top: 5px;
-    /* grid-column-start: 3;
-    grid-column-end: 5; */
-}
 .sub-main1 {
     background-color: aqua;
     border: 5px solid black;
@@ -49,4 +40,77 @@
     margin-top: 5px;
     grid-column-start:1 ;
     grid-column-end:4 ;
+}
+.sub-main2 {
+    background-color: aqua;
+    border: 5px solid black;
+    padding: 20px;
+    text-align: center;
+    margin-top: 5px;
+    /* grid-column-start: 3;
+    grid-column-end: 5; */
+
+}
+.sub-main3 {
+    background-color: aqua;
+    border: 5px solid black;
+    padding: 20px;
+    text-align: center;
+    margin-top: 5px;
+    /* grid-column-start:1 ;
+    grid-column-end:4 ; */
+}
+.sub-main4 {
+    background-color: aqua;
+    border: 5px solid black;
+    padding: 20px;
+    text-align: center;
+    margin-top: 5px;
+    /* grid-column-start:1 ;
+    grid-column-end:4 ; */
+}
+.sub-main5 {
+    background-color: aqua;
+    border: 5px solid black;
+    padding: 20px;
+    text-align: center;
+    margin-top: 5px;
+    /* grid-column-start:1 ;
+    grid-column-end:4 ; */
+}
+.sub-main6 {
+    background-color: aqua;
+    border: 5px solid black;
+    padding: 20px;
+    text-align: center;
+    margin-top: 5px;
+    /* grid-column-start:1 ;
+    grid-column-end:4 ; */
+}
+.sub-main7 {
+    background-color: aqua;
+    border: 5px solid black;
+    padding: 20px;
+    text-align: center;
+    margin-top: 5px;
+    /* grid-column-start:1 ;
+    grid-column-end:4 ; */
+}
+.sub-main8 {
+    background-color: aqua;
+    border: 5px solid black;
+    padding: 20px;
+    text-align: center;
+    margin-top: 5px;
+    /* grid-column-start:1 ;
+    grid-column-end:4 ; */
+}
+.sub-main9 {
+    background-color: aqua;
+    border: 5px solid black;
+    padding: 20px;
+    text-align: center;
+    margin-top: 5px;
+    /* grid-column-start:1 ;
+    grid-column-end:4 ; */
 }

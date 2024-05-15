@@ -1,0 +1,7 @@
+.first::first-letter{ 
+    text-transform: capitalize;
+    color: aqua;
+    font-size: 100px;
+
+}
+@media only screen
