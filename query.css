@@ -2,6 +2,14 @@
     text-transform: capitalize;
     color: aqua;
     font-size: 100px;
+    background-image: url("forimage/Bugatti.jpeg");
 
 }
-@media only screen
+@media only screen and (max-width:800px){
+    .first::first-letter{ 
+        font-size: 225px;
+        color: rgb(253, 18, 18);
+        background-image: url(forimage/GT.jpeg);
+
+}
+}

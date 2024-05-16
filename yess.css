@@ -38,8 +38,8 @@
     padding: 20px;
     text-align: center;
     margin-top: 5px;
-    grid-column-start:1 ;
-    grid-column-end:4 ;
+    /* grid-column-start:1 ;
+    grid-column-end:4 ; */
 }
 .sub-main2 {
     background-color: aqua;
@@ -47,7 +47,7 @@
     padding: 20px;
     text-align: center;
     margin-top: 5px;
-    /* grid-column-start: 3;
+    /* grid-column-start: 2;
     grid-column-end: 5; */
 
 }
@@ -57,8 +57,8 @@
     padding: 20px;
     text-align: center;
     margin-top: 5px;
-    /* grid-column-start:1 ;
-    grid-column-end:4 ; */
+    /* grid-column-start:3 ;
+    grid-column-end:5 ; */
 }
 .sub-main4 {
     background-color: aqua;
@@ -66,8 +66,8 @@
     padding: 20px;
     text-align: center;
     margin-top: 5px;
-    /* grid-column-start:1 ;
-    grid-column-end:4 ; */
+    /* grid-column-start:4 ;
+    grid-column-end:8; */
 }
 .sub-main5 {
     background-color: aqua;
